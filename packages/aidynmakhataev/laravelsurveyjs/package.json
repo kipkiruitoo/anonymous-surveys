@@ -14,7 +14,7 @@
     "bootstrap": "^3.3.7",
     "popper.js": "^1.12",
     "cross-env": "^5.1",
-    "laravel-mix": "^2.0",
+    "laravel-mix": "^6.0",
     "vue": "^2.5.7",
     "survey-vue": "^1.0.15",
     "surveyjs-editor": "^1.0.15",
